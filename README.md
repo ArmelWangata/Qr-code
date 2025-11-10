@@ -3,8 +3,8 @@ This is a reproduction of the "QR Code Component" from Frontend Mentor.
 The goal was to recreate the exact visual design and make it fully responsive (mobile + desktop), using only HTML + CSS.
 
 # Tech Stack 
-HTML
-CSS
+- HTML
+- CSS
 
 # Features
 pixel-perfect replica of the original design
@@ -13,3 +13,9 @@ Clean semantic HTML structure
 organized CSS
 
 # Installation 
+- git clone https: //github.com/ArmelWangata/Qr-code.git
+- cd Qr-code
+- open index.html
+
+# credit 
+Design original par Frontend Mentor 
