@@ -13,9 +13,9 @@ Clean semantic HTML structure
 organized CSS
 
 # Installation 
-- git clone https: //github.com/ArmelWangata/Qr-code.git
+- git clone https: //github.com/ArmelWangata/Qr-code.github.io.git
 - cd Qr-code
 - open index.html
 
 # credit 
-Design original par Frontend Mentor 
+Design original by Frontend Mentor 
